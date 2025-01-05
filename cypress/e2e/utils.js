@@ -1,3 +1,6 @@
+/// <reference types="cypress" />
+
+
 let found = false; 
 let scrollStep = 200;  
 

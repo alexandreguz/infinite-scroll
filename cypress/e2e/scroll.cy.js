@@ -1,3 +1,5 @@
+/// <reference types="cypress" />
+
 import { scrollAndFind } from './utils';
 
 let begin = 'אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר'
